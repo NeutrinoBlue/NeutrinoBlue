@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NeutrinoBlue
-- 👀 I’m interested in Cryptography and Quantum Computing.
+
 - 🌱 I’m currently learning Java
 - 📫 How to reach me ...
 
